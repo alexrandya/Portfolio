@@ -92,3 +92,25 @@ p {
     text-align: center;
   }
 }
+.about-section {
+  padding: 160px 20px;
+}
+
+.about-section h1 {
+  font-size: 70px;
+  font-weight: bolder;
+}
+.about-section h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+@media (min-width: 992px) {
+  .col-lg-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+}
