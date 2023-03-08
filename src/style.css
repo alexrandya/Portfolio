@@ -114,3 +114,23 @@ p {
     width: 50%;
   }
 }
+.content {
+  margin: 30px;
+}
+.content h1 {
+  font-size: 64px;
+  line-height: 80px;
+  text-align: center;
+}
+@media (min-width: 768px) {
+  .col-md-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+}
+.img-fluid {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+  border-radius: 10px;
+}
