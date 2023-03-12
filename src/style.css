@@ -74,6 +74,8 @@ p {
 
 .project-desciption {
   padding: 120px 60px;
+  box-sizing: border-box;
+  display: block;
 }
 
 @media (max-width: 900px) {
