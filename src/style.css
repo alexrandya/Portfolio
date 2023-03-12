@@ -162,3 +162,7 @@ footer {
   margin-right: auto;
   margin-left: auto;
 }
+
+.content-container {
+  padding: 60px 20px;
+}
